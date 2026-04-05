@@ -1,0 +1,9 @@
+{
+	"name": "nirvarDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d148efa-01a4-4a68-aeb4-6b5cf73bbf6f",
+		"tenantId": "2fb67129-2545-4eda-83c9-d5cc473d7845"
+	}
+}
